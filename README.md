@@ -4,7 +4,6 @@
 
 <div align="left">
 
-<h2 id="first-section">What is this repo about?</h2>
 ## What is this repo about?
 
 This repository is designed to make it easy for users to generate synthetic tables with minimal setup. This repo integrates popular methods like ADASYN and SMOTE for resampling, as well as advanced generative models such as GAN, Autoencoder, and Transformer-based models for synthesizing realistic, high-dimensional tabular data. Each method is implemented to help users quickly create balanced datasets or generate synthetic samples based on an existing table, without needing to write extensive code.
